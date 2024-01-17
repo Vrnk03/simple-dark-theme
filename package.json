@@ -1,6 +1,6 @@
 {
   "name": "my-simple-dark-theme",
-  "displayName": "simple dark theme",
+  "displayName": "my simple dark theme",
   "description": "dark theme",
   "publisher": "vrnkkrlnk",
   "repository": {
@@ -11,6 +11,8 @@
     "theme",
     "dark theme",
     "simple dark theme",
+    "my simple dark theme",
+    "my dark theme",
     "vrnk_krnk"
   ],
   "version": "0.0.1",
